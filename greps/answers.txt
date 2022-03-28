@@ -6,14 +6,21 @@ Bulbasaur
 Butterfree
 
 Filescan_00.2
+Charmander
+Charmeleon
+Charizard
 
+Filescan_00.3
+Ivysaur
+Jiggypuff
+Meowth
+Pikachu
 
-
-
-
-
-
-
+Filescan_00.4
+Psyduck
+Squirtle
+Venusaur
+Wartortle
 
 # Part 2
 ### a)
