@@ -1,18 +1,11 @@
 # Part 1
-### a)
+Filescan_00.1
+Beedrill
+Blastoise
+Bulbasaur
+Butterfree
 
-
-
-
-### b)
-
-
-
-### c)
-
-
-
-
+Filescan_00.2
 
 
 
